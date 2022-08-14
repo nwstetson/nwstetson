@@ -4,11 +4,11 @@ Welcome to my GitHub page. Here you can see all the interesting projects I'm wor
 
  📫 Email: [stetson@utexas.edu](kstetson@utexas.edu)
  
- 💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
+ 🤝 LinkedIn: [linkedin/in/noah-stetson](https://linkedin/in/noah-stetson)
  
  🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
  
- 🤝 LinkedIn: [linkedin/in/noah-stetson](https://linkedin/in/noah-stetson)
+ 💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
 
 
 <!--
