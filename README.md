@@ -1,7 +1,12 @@
-### Welcome! 🐒🐷🐕
-My name is Noah Stetson, and I am a 4th-year undergraduate at the University of Texas at Austin. I am currently pursuing a B.A. in psychology, and a minor in primatology. I am very passionate about science communication, animal behavior, and also my primate meme account ([@primate.memes](https://www.instagram.com/primate.memes/) on Instagram), which I update regularly to help teach people more about primates!
+### Hello!
 
-You can email me at [stetson@utexas.edu](mailto:kstetson@utexas.edu)
+Welcome to my GitHub page. Here you can see all the interesting projects I'm working on. Feel free to look around!
+
+ 📫 Email:[stetson@utexas.edu](kstetson@utexas.edu)
+ 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
+ 💻 Website: [nwstetson.github.io](https://nwstetson.github.io)
+ 
+
 
 <!--
 **nwstetson/nwstetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
