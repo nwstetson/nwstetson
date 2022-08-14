@@ -4,7 +4,7 @@ Welcome to my GitHub page. Here you can see all the interesting projects I'm wor
 
  📫 Email: [stetson@utexas.edu](kstetson@utexas.edu)
  
- 🤝 LinkedIn: [linkedin/in/noah-stetson](https://linkedin/in/noah-stetson)
+ 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
  
  🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
  
