@@ -7,11 +7,10 @@ Welcome to my GitHub page. Here you can see all the interesting projects I'm wor
  🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
  
  🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
- 
- 💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
-
 
 <!--
-notes:
+Once website is done:
+
+💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
 
 -->
