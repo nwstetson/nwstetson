@@ -4,10 +4,9 @@ Welcome to my GitHub page. Here you can see all the interesting projects I'm wor
 
  📫 Email: [stetson@utexas.edu](kstetson@utexas.edu)
  
- 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
- 
  💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
  
+ 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson)
 
 
 <!--
