@@ -5,7 +5,7 @@ My name is Noah Stetson, and I am a 4th-year undergraduate at the University of 
 Feel free to look around on this page to see the projects I've been working on!
 
 
-📫 Email: [stetson@utexas.edu](kstetson@utexas.edu) 
+📫 Email: [stetson@utexas.edu](mailto:kstetson@utexas.edu) 
 
 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
 
