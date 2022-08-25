@@ -9,6 +9,9 @@ Feel free to look around on this page to see the projects I've been working on!
 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
 
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&show_icons=true&hide_border=true)
  
 <!--
 Once website is less ugly:
