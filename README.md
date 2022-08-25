@@ -12,9 +12,6 @@ Feel free to look around on this page to see the projects I've been working on!
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&show_icons=true&hide_border=true)
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nwstetson)
  
 <!--
 Once website is less ugly:
