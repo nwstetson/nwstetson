@@ -4,7 +4,7 @@ My name is Noah Stetson, and I am a 4th-year undergraduate at the University of 
 
 Feel free to look around on this page to see the projects I've been working on!
 
-📫 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu) 
+📫 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu)
 
 🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
 
@@ -15,5 +15,4 @@ Feel free to look around on this page to see the projects I've been working on!
 <!--
 Once website is less ugly:
 💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
-
 -->
