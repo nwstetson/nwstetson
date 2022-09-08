@@ -1,4 +1,4 @@
-### ✨ Welcome! ✨
+## ✨ Welcome! ✨
 
 My name is Noah Stetson, and I am a 4th-year undergraduate at the University of Texas at Austin. I am currently pursuing a B.A. in psychology, with a minor in primatology. I am very passionate about animal behavior, science communication, and also my primate meme account ([@primate.memes](https://www.instagram.com/primate.memes/) on Instagram), which I update regularly to help teach people more about primates.🐒
 
