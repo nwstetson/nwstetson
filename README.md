@@ -19,15 +19,6 @@ Once website is less ugly:
 ### My GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
 
-### Always Learning! But Know/Using
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; <!-- this will soon be renamed to "posit" -->
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Quarto](https://img.shields.io/badge/-Quarto-05122A?style=flat&logo=Quarto)&nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
-
-
 ### Learning
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -38,3 +29,11 @@ Once website is less ugly:
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=1572B6)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=1572B6)&nbsp;
+
+### Always Learning! But Currently Know/Using
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; <!-- this will soon be renamed to "posit" -->
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Quarto](https://img.shields.io/badge/-Quarto-05122A?style=flat&logo=Quarto)&nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
