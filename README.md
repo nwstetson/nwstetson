@@ -20,7 +20,6 @@ Once website is less ugly:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
 
 ### Learning
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
@@ -35,5 +34,6 @@ Once website is less ugly:
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; <!-- this will soon be renamed to "posit" -->
 ![Quarto](https://img.shields.io/badge/-Quarto-05122A?style=flat&logo=Quarto)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
