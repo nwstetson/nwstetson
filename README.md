@@ -17,8 +17,11 @@ Once website is less ugly:
 
 ### Some of My Research Interests
 🐖 Domestication
-🧑🦝Human-Animal Interactions
+
+🧑🦝 Human-Animal Interactions
+
 👥 Individual Differences
+
 🧠 Hormones Affecting Behavior
 
 
