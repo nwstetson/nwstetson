@@ -15,6 +15,12 @@ Once website is less ugly:
 💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
 -->
 
+### Some of My Research Interests
+🐖 Domestication
+🧑🦝Human-Animal Interactions
+👥 Individual Differences
+🧠 Hormones Affecting Behavior
+
 
 ### My GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
