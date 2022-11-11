@@ -18,7 +18,7 @@ Once website is less ugly:
 ### Some of My Research Interests
 🐖 Domestication
 
-🧑🦝 Human-Animal Interactions
+🧑🦝 Interspecies Interactions
 
 👥 Individual Differences
 
