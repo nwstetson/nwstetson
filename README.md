@@ -22,7 +22,7 @@ Once website is less ugly:
 
 👥 Individual Differences
 
-🧠 Hormones Affecting Behavior
+🧠 Psychoneuroendocrinology
 
 
 ### My GitHub Stats 
