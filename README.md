@@ -41,7 +41,7 @@ Once website is less ugly:
 
 ### Always Learning! But Currently Know/Using
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; <!-- this will soon be renamed to "posit" -->
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Quarto](https://img.shields.io/badge/-Quarto-05122A?style=flat&logo=Quarto)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
