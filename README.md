@@ -25,7 +25,7 @@ Once website is less ugly:
 🧠 Psychoneuroendocrinology
 
 
-### My GitHub Stats 
+### My GitHub Stats (workshopping 😔)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
 
 ### Learning
