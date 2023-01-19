@@ -24,9 +24,10 @@ Once website is less ugly:
 
 🧠 Psychoneuroendocrinology
 
-
+<!-- messed up rn :(
 ### My GitHub Stats (keeps getting overloaded 😔)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
+-->
 
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
