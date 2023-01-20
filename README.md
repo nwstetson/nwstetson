@@ -16,13 +16,14 @@ Once website is less ugly:
 -->
 
 ### Some of My Research Interests
-🐖 Domestication
-
-🧑🦝 Interspecies Interactions
 
 👥 Individual Differences
 
-🧠 Psychoneuroendocrinology
+🧠 Neuroendocrinology
+
+🐖 Domestication
+
+🧑🦝 Interspecies Interactions
 
 <!-- messed up rn :(
 ### My GitHub Stats (keeps getting overloaded 😔)
