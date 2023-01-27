@@ -25,8 +25,10 @@ Once website is less ugly:
 
 🧑🦝 Interspecies Interactions
 
+<!--
 ### My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&theme=onedark&show_icons=true)
+-->
 
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
