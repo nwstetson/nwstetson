@@ -19,7 +19,7 @@ Once website is less ugly:
 
 👥 Individual Differences
 
-🧠 Neuroendocrinology
+🧠 Psychoneuroendocrinology
 
 🐖 Domestication
 
