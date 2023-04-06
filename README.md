@@ -34,7 +34,7 @@ Once website is less ugly:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![nano](https://img.shields.io/badge/-nano-05122A?style=flat&logo=nano&logoColor=1572B6)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=1572B6)&nbsp;
-![SciKit](https://img.shields.io/badge/-scikit-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![SciKit](https://img.shields.io/badge/-scikit-05122A?style=flat&logo=scikit&logoColor=276DC3)&nbsp;
 
 ### Always Learning! But Currently Know/Using
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
