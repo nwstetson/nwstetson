@@ -4,15 +4,15 @@ I'm Noah, and I am a 4th-year undergraduate at the University of Texas at Austin
 
 Feel free to look around on this page to see the projects I've been working on!
 
-📬 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu)
-
-🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
-
-🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson) 
+📬 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu) 
 
 📚 ResearchGate: [https://www.researchgate.net/profile/Noah-Stetson](researchgate.com/profile/noah-stetson)
 
 🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
+
+🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
+
+🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
 
 
 ### Some of My Research Interests
