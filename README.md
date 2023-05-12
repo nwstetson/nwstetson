@@ -10,10 +10,10 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson) 
 
-<!--
-Once website is less ugly:
-💻 Website (work in-progress): [nwstetson.github.io](https://nwstetson.github.io)
--->
+📚 ResearchGate: [https://www.researchgate.net/profile/Noah-Stetson](researchgate.com/profile/noah-stetson)
+
+🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
+
 
 ### Some of My Research Interests
 
