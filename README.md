@@ -6,7 +6,7 @@ Feel free to look around on this page to see the projects I've been working on!
 
 📬 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu) 
 
-📚 ResearchGate: [https://www.researchgate.net/profile/Noah-Stetson](researchgate.com/profile/noah-stetson)
+📚 ResearchGate: [researchgate.com/profile/noah-stetson](https://www.researchgate.net/profile/Noah-Stetson
 
 🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
 
