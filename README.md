@@ -10,8 +10,6 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
 
-🐦 Twitter: [@nwstetson](https://twitter.com/NWStetson) 
-
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
 
 
