@@ -1,6 +1,6 @@
 ## ✨ Welcome! ✨
 
-I'm Noah, and I am a recent psychology/primatology B.A. graduate at the University of Texas at Austin, now working as a reseach technician at the University of Arizona's Canine Cognition Center. I am very passionate about animal behavior, science communication, data science, and also my primate meme account ([@primate.memes](https://www.instagram.com/primate.memes/) on Instagram), which I update regularly to help teach people more about primates. 🐒
+I'm Noah, and I am a recent psychology/primatology B.A. graduate at the University of Texas at Austin, now working as a lab coordinator at the University of Arizona's Canine Cognition Center. I am very passionate about animal behavior, data science, and science communication.
 
 Feel free to look around on this page to see the projects I've been working on!
 
