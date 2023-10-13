@@ -4,7 +4,7 @@ I'm Noah, and I am a recent psychology/primatology B.A. graduate at the Universi
 
 Feel free to look around on this page to see the projects I've been working on!
 
-📬 Email: [noah.stetson@utexas.edu](mailto:noah.stetson@utexas.edu) 
+📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
 
 🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
 
