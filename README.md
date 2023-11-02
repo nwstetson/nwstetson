@@ -18,6 +18,8 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🧠 Psychoneuroendocrinology
 
+🧬 Behavioral Genetics
+
 🐖 Domestication
 
 🧑🦝 Interspecies Interactions
