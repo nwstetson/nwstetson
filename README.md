@@ -20,7 +20,7 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🧬 Behavioral Genetics
 
-🐖 Domestication
+🐺➡️🐶 Domestication
 
 🧑🦝 Interspecies Interactions
 
