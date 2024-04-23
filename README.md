@@ -6,9 +6,9 @@ Feel free to look around on this page to see the projects I've been working on!
 
 📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
 
-🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
-
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
+
+🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
 
 📚 ResearchGate: [researchgate.com/profile/noah-stetson](https://www.researchgate.net/profile/Noah-Stetson)
 
