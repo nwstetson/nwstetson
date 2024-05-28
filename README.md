@@ -8,9 +8,7 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
 
-🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
-
-    <a
+<a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0002-1270-9979"
