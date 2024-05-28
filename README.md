@@ -7,7 +7,7 @@ Feel free to look around on this page to see the projects I've been working on!
 📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
 
 🤝 LinkedIn: [linkedin.com/in/noah-stetson](https://linkedin.com/in/noah-stetson)
-
+            
 <a
     id="cy-effective-orcid-url"
     class="underline"
