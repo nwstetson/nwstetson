@@ -10,6 +10,20 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🔎 OrcID: [orcid.org/0000-0002-1270-9979](https://orcid.org/0000-0002-1270-9979)
 
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-1270-9979"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-1270-9979
+    </a>
+
 📚 ResearchGate: [researchgate.com/profile/noah-stetson](https://www.researchgate.net/profile/Noah-Stetson)
 
 ### Some of My Research Interests
