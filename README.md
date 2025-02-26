@@ -37,6 +37,7 @@ Feel free to look around on this page to see the projects I've been working on!
 🧑🐕‍🦺 Interspecies Interactions
 
 ![My GitHub Stats](https://raw.githubusercontent.com/nwstetson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Language I Use](https://raw.githubusercontent.com/nwstetson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
