@@ -36,7 +36,7 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🧑🐕‍🦺 Interspecies Interactions
 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&show_icons=true&theme=transparent)
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwstetson&show_icons=true&theme=transparent&rank_icon=percentile)
 
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
