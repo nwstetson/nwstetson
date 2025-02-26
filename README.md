@@ -36,6 +36,9 @@ Feel free to look around on this page to see the projects I've been working on!
 
 🧑🐕‍🦺 Interspecies Interactions
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nwstets&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nwstets&langs_count=5&theme=tokyonight)]()
+
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
