@@ -1,6 +1,6 @@
 ## ✨ Welcome! ✨
 
-I'm Noah, and I am a recent psychology/primatology B.A. graduate at the University of Texas at Austin, now working as a lab coordinator at the University of Arizona's Canine Cognition Center. I am very passionate about animal behavior, data science, and science communication.
+I'm Noah, and I am a psychology PhD student at the University of Arizona, working at the Arizona Canine Cognition Center and the BRAY Lab. I am very passionate about animal behavior, data science, and science communication.
 
 Feel free to look around on this page to see the projects I've been working on!
 
