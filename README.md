@@ -2,6 +2,8 @@
 
 I'm Noah, and I am a psychology PhD student at the University of Arizona, working at the Arizona Canine Cognition Center and the BRAY Lab. I am very passionate about animal behavior, data science, and science communication.
 
+Before arriving to the University of Arizona I earned my BA in Psychology from the University of Texas at Austin, where I conducted a senior thesis on personality differences in pigs. I also worked with lemurs at the Duke Lemur Center in Durham, NC and at Ankoatsifaka Field Station in Western Madagascar.
+
 Feel free to look around on this page to see the projects I've been working on!
 
 📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
