@@ -5,6 +5,7 @@ I'm Noah, and I am a PhD student in the Cognition and Neural Systems program at 
 Before arriving to the University of Arizona I earned my BA in Psychology from the University of Texas at Austin, where I conducted a senior thesis on measuring temperament in pigs. I also worked with lemurs at the Duke Lemur Center in Durham, NC and at Ankoatsifaka Field Station in Western Madagascar.
 
 Feel free to look around on this page to see the projects I've been working on!
+
 Disclaimer: My current research projects are in private repositories at the moment due to data sharing agreements.
 
 📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
