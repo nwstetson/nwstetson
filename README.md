@@ -6,7 +6,7 @@ Before arriving to the University of Arizona I earned my BA in Psychology from t
 
 Feel free to look around on this page to see the projects I've been working on!
 
-Disclaimer: My current research projects are in private repositories at the moment due to data sharing agreements.
+Note: My current research projects are in private repositories at the moment due to data sharing agreements.
 
 📬 Email: [noahstetson@arizona.edu](mailto:noahstetson@arizona.edu) 
 
